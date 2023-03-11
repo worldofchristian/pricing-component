@@ -1,11 +1,11 @@
 <div
 className='shadow-xl rounded-2xl w-full p-6 mt-2 max-w-sm'>
     <h1 
-    className="text-xl mt-2 font-medium tracking-wide">
-    Pro</h1>
+    className="text-xl mt-2 font-medium tracking-wide"
+    >Pro</h1>
     <h1 
-    className="text-5xl font-bold tracking-wide">
-    $35
+    className="text-5xl font-bold tracking-wide"
+    >$35
     <span
     className='text-sm font-medium'>/month</span></h1>
     
